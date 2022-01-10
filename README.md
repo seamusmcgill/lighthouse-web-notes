@@ -1,4 +1,6 @@
-# Seamus's Notes
+# Seamus McGill's Notes
 
-# This is an H1 header
-###### This is an H6 header
+## Summary
+
+This repository contains all of the notes taken by [Seamus McGill](https://github.com/seamusmcgill) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
